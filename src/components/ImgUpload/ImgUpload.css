@@ -1,0 +1,36 @@
+.img__upload__section__container {
+    /* margin-bottom: 20px; */
+    padding: 25px 0;
+    /* padding-right: 25%;
+    padding-left: 25%; */
+    background-color: #fff;
+    bottom: 0;
+    width: 100%;
+    z-index: 1;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    flex: 1;
+}
+
+.img__upload__section {
+    width: 500px;
+}
+
+.add__post__form__header {
+    width: 100%;
+    flex: 0;
+    display: flex;
+    justify-content: center;
+    font-size: 24px;
+    font-weight: 500;
+    text-transform: uppercase;
+}
+
+.upload__form {
+    display: flex;
+    margin-top: 10px;
+    align-items: center;
+    justify-content: space-between;
+}
